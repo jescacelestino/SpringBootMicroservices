@@ -1,0 +1,4 @@
+academy/devdojo/youtube/core/repository/CourseRepository.class
+academy/devdojo/youtube/core/model/Course.class
+academy/devdojo/youtube/core/model/Course$CourseBuilder.class
+academy/devdojo/youtube/core/model/AbstractEntity.class
