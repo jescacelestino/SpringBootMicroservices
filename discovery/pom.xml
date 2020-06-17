@@ -18,7 +18,6 @@
         <java.version>11</java.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
-        <javax-activation.version>1.1.1</javax-activation.version>
     </properties>
 
     <dependencies>
@@ -33,11 +32,6 @@
             <version>${jaxb-api.version}</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/javax.activation/activation -->
-        <dependency>
-            <groupId>javax.activation</groupId>
-            <artifactId>activation</artifactId>
-            <version>${javax-activation.version}</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime -->
         <dependency>
             <groupId>org.glassfish.jaxb</groupId>

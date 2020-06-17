@@ -29,9 +29,7 @@ public class SecurityCredentialsConfig extends SecurityTokenConfig {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http
-                .addFilter(new JwtUsernameAndPasswordAuthenticationFilter(authenticationManager(),
-                        jwtConfiguration,
-                        tokenCreator));
+                .addFilter(new JwtUsernameAndPasswordAuthenticationFilter(authenticationManager(), jwtConfiguration, tokenCreator));
         super.configure(http);
     }
 

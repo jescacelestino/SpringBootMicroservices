@@ -495,3 +495,7 @@ Yauth/src/main/java/academy/devdojo/youtube/auth/security/user/UserDetailsServic
 oauth/src/main/java/academy/devdojo/youtube/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java,3/9/39b6829512e169360bfb771903d618ddb895c9e2
 ~
 Ncore/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java,e/e/ee4d83834340ebb1a4f3dc509eb7697d9f1a12d8
+ˆ
+Xtoken/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java,4/5/45ef5fd838d02778746424f4b702d031e40398c9
+Ž
+^core/src/main/java/academy/devdojo/youtube/security/config/core/property/JwtConfiguration.java,d/4/d4e223e9eba6cdaf92c72f77804ab7d8d7829f03
