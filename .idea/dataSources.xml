@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@localhost" uuid="5a9749b0-558a-4430-aeed-0a2f4b32976e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="course/Hibernate" uuid="2b0d6356-2c39-4f5e-bc53-1b91d5424ebe">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/devdojo?allowPublicKeyRetrieval=true&amp;sslMode=DISABLED</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="auth/Hibernate" uuid="54203d17-2837-49ee-83fb-fc8fa98bb790">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/?allowPublicKeyRetrieval=true&amp;sslMode=DISABLED</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.2.4.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200615.093230-143.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200617.093410-158.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200615.093230-143-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200617.093410-158-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200615.093230-143-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.4.BUILD-SNAPSHOT/spring-cloud-starter-netflix-hystrix-2.2.4.BUILD-20200617.093410-158-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

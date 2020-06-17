@@ -22,7 +22,7 @@
       "name": "jwt.config.header.name",
       "type": "java.lang.String",
       "sourceType": "academy.devdojo.youtube.core.property.JwtConfiguration$Header",
-      "defaultValue": "Authentication"
+      "defaultValue": "Authorization"
     },
     {
       "name": "jwt.config.header.prefix",
@@ -40,7 +40,7 @@
       "name": "jwt.config.private-key",
       "type": "java.lang.String",
       "sourceType": "academy.devdojo.youtube.core.property.JwtConfiguration",
-      "defaultValue": "CNKYxfx6Lnsk3NZbYow4AgrmN6HPEUjU"
+      "defaultValue": "YsXiGncTr8ubh7lUExA3BIOItCDfh4MW"
     },
     {
       "name": "jwt.config.type",

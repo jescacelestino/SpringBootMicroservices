@@ -17,11 +17,27 @@
     <modules>
         <module>course</module>
         <module>core</module>
+        <module>token</module>
     </modules>
+
     <properties>
         <spring-cloud.version>Hoxton.BUILD-SNAPSHOT</spring-cloud.version>
+        <nimbus-jose.version>7.0</nimbus-jose.version>
+        <commons-lang3.version>3.8.1</commons-lang3.version>
     </properties>
+
     <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
+
+        </dependency>
+        <dependency>
+            <groupId>com.nimbusds</groupId>
+            <artifactId>nimbus-jose-jwt</artifactId>
+            <version>${nimbus-jose.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
@@ -77,6 +93,7 @@
             </exclusions>
         </dependency>
     </dependencies>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -88,11 +105,21 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
     <repositories>
-      <repository>
-          <id>spring-milestones</id>
-          <name>Spring Milestones</name>
-          <url>https://repo.spring.io/milestone</url>
-      </repository>
+        <repository>
+            <id>spring-snapshots</id>
+            <name>Spring Snapshots</name>
+            <url>https://repo.spring.io/snapshot</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>spring-milestones</id>
+            <name>Spring Milestones</name>
+            <url>https://repo.spring.io/milestone</url>
+        </repository>
     </repositories>
+
 </project>

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects/devdojo-microservices.iml" filepath="$PROJECT_DIR$/IdeaProjects/devdojo-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/token/token.iml" filepath="$PROJECT_DIR$/token/token.iml" />
     </modules>
   </component>
 </project>

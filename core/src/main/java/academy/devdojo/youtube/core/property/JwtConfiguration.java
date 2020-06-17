@@ -13,16 +13,17 @@ import org.springframework.context.annotation.Configuration;
 @Setter
 @ToString
 public class JwtConfiguration {
-    private  String loginUrl = "/login/**";
+    private String loginUrl = "/login/**";
     @NestedConfigurationProperty
     private Header header = new Header();
     private int expiration = 3600;
-    private String privateKey = "CNKYxfx6Lnsk3NZbYow4AgrmN6HPEUjU";
+    private String privateKey = "YsXiGncTr8ubh7lUExA3BIOItCDfh4MW";
     private String type = "encrypted";
+
     @Getter
     @Setter
     public static class Header {
-        private String name = "Authentication";
+        private String name = "Authorization";
         private String prefix = "Bearer ";
     }
 }
