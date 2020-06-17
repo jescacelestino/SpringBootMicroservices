@@ -1,3 +1,6 @@
-/home/rhayana/IdeaProjects/core/src/main/java/academy/devdojo/youtube/core/model/AbstractEntity.java
-/home/rhayana/IdeaProjects/core/src/main/java/academy/devdojo/youtube/core/model/Course.java
-/home/rhayana/IdeaProjects/core/src/main/java/academy/devdojo/youtube/core/repository/CourseRepository.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/model/AbstractEntity.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/model/ApplicationUser.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/repository/CourseRepository.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/repository/ApplicationUserRepository.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/core/src/main/java/academy/devdojo/youtube/core/model/Course.java

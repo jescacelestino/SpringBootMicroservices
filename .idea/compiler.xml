@@ -7,12 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gateway" />
+        <module name="discovery" />
         <module name="token" />
         <module name="auth" />
+        <module name="gateway" />
         <module name="course" />
         <module name="core" />
-        <module name="discovery" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

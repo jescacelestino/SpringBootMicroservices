@@ -175,14 +175,10 @@ z
 J.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml,d/5/d547cb1fb5bdfb2adb7662382f960595e698dbd1
 v
 F.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml,0/1/010dea03000301f90ac79b776560baf825dfcdaf
-l
-<.idea/libraries/Maven__javax_activation_activation_1_1_1.xml,7/0/70b87bba91c13eed6810e203f3be426622709c44
 f
 6.idea/libraries/Maven__javax_inject_javax_inject_1.xml,8/d/8ddc74c8d678657ffd439cd2e0b6ab83756b44bf
 g
 7.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml,f/5/f5359bad1d418868e9564c824d5050e8ccb7b9bd
-h
-8.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml,a/2/a2c249d3925e2c040835368e8fe52698abc5188d
 b
 2.idea/libraries/Maven__joda_time_joda_time_2_3.xml,8/d/8d640e9f7673a5f185908b583182969d73b39db6
 l
@@ -447,8 +443,6 @@ B
 discovery/mvnw.cmd,1/a/1a810405e17d616b3c2196d3aa0fa8cedb403c30
 @
 gateway/mvnw.cmd,2/b/2b83d90c1fa7d29755ba2aa43a61215a9bcc60c7
-Y
-)core/target/maven-archiver/pom.properties,a/3/a3948de7db5fcb221ac0e0bd6bb6b303eb22f511
 <
 auth/pom.xml,c/f/cf3c56ff971c67216817e39a7bd2756a0dd65833
 <
@@ -465,28 +459,14 @@ o
 course/stack.yml,0/a/0acf1e533b6a4d59c5d22015a6b36c7b849b5b76
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-I
-devdojo-microservices.iml,8/3/8337af511aa5a9bd3570939b8d0a9b73422530ec
-™
-iauth/src/main/java/academy/devdojo/youtube/security/config/auth/security/user/UserDetailsServiceImpl.java,1/2/120a4f83e802a3201c0ecc67d22cc5b8de32d2f1
-‰
-Yauth/src/test/java/academy/devdojo/youtube/security/config/auth/AuthApplicationTests.java,5/2/52abd415519014fedc5ccaa9c4f7806d0c7a360f
 ?
 token/token.iml,6/5/652179dc5dd6094cc8bd642172fc9326ea1114ef
 =
 token/pom.xml,b/e/beadc5c7c2b5fb53a63216095b3e0395f57c9a3d
-y
-Itoken/src/main/java/academy/devdojo/youtube/security/converter/token.java,1/9/1912fb650c83029f46fbe563460d764caf5c0bb5
-„
-Tauth/src/main/java/academy/devdojo/youtube/security/config/auth/AuthApplication.java,6/3/638b7e5766a7412e6241ea6e7d153bff01b9b0a4
-¯
-auth/src/main/java/academy/devdojo/youtube/security/config/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java,8/e/8e9ad30f45941c82505f9365f5db61f6f3967899
 „
 Ttoken/src/main/java/academy/devdojo/youtube/security/config/SecurityTokenConfig.java,0/1/014bb4b27f6b72bf1ab2dc082e84f75f30597d1d
 „
 Ttoken/src/main/java/academy/devdojo/youtube/security/token/creator/TokenCreator.java,1/5/158bae5c6611ef093eda5f00bd45291b1c8c46a7
-
-nauth/src/main/java/academy/devdojo/youtube/security/config/auth/security/config/SecurityCredentialsConfig.java,0/9/09ab4d97a74eb0bb13b08dc20337ee0b8563d153
 ‰
 Yauth/src/main/java/academy/devdojo/youtube/auth/security/user/UserDetailsServiceImpl.java,3/5/35d74a215d0e452748508b197b5bbd0c6c00f0f5
 
@@ -497,5 +477,5 @@ oauth/src/main/java/academy/devdojo/youtube/auth/security/filter/JwtUsernameAndP
 Ncore/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java,e/e/ee4d83834340ebb1a4f3dc509eb7697d9f1a12d8
 ˆ
 Xtoken/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java,4/5/45ef5fd838d02778746424f4b702d031e40398c9
-
-^core/src/main/java/academy/devdojo/youtube/security/config/core/property/JwtConfiguration.java,d/4/d4e223e9eba6cdaf92c72f77804ab7d8d7829f03
+ƒ
+Sdiscovery/src/main/java/academy/devdojo/youtube/discovery/DiscoveryApplication.java,f/1/f1b0540e4acf60a685fd6bdc5fd59379a9f0dc50

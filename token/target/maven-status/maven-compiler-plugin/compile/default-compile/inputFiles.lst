@@ -1,0 +1,5 @@
+/home/jesca/Downloads/Spring-Boot-Microservices-master/token/src/main/java/academy/devdojo/youtube/security/filter/JwtTokenAuthorizationFilter.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/token/src/main/java/academy/devdojo/youtube/security/util/SecurityContextUtil.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/token/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/token/src/main/java/academy/devdojo/youtube/security/config/SecurityTokenConfig.java
+/home/jesca/Downloads/Spring-Boot-Microservices-master/token/src/main/java/academy/devdojo/youtube/security/token/creator/TokenCreator.java
