@@ -22,7 +22,7 @@
 
     <properties>
         <spring-cloud.version>Hoxton.BUILD-SNAPSHOT</spring-cloud.version>
-        <nimbus-jose.version>7.0</nimbus-jose.version>
+        <nimbus-jose.version>7.9</nimbus-jose.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
     </properties>
 
