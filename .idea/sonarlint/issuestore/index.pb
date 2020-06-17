@@ -479,3 +479,5 @@ Ncore/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java
 Xtoken/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java,4/5/45ef5fd838d02778746424f4b702d031e40398c9
 ƒ
 Sdiscovery/src/main/java/academy/devdojo/youtube/discovery/DiscoveryApplication.java,f/1/f1b0540e4acf60a685fd6bdc5fd59379a9f0dc50
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
